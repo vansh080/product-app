@@ -1,0 +1,212 @@
+[
+  {
+    "title": "Wireless Bluetooth Headphones",
+    "description": "Comfortable over-ear headphones with noise cancellation.",
+    "price": 2999,
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/headphones/400/300"
+  },
+  {
+    "title": "Smart LED TV 42 inch",
+    "description": "Full HD Smart TV with built-in apps and WiFi.",
+    "price": 22999,
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/tv/400/300"
+  },
+  {
+    "title": "Gaming Laptop",
+    "description": "Powerful gaming laptop with RTX graphics and 16GB RAM.",
+    "price": 75999,
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/laptop/400/300"
+  },
+  {
+    "title": "Smartphone Pro Max",
+    "description": "Latest smartphone with 5G, AMOLED display and 128GB storage.",
+    "price": 59999,
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/phone/400/300"
+  },
+  {
+    "title": "Men's Running Shoes",
+    "description": "Lightweight and durable running shoes for daily workouts.",
+    "price": 1999,
+    "category": "men clothing",
+    "image": "https://picsum.photos/seed/shoes/400/300"
+  },
+  {
+    "title": "Men's Denim Jacket",
+    "description": "Classic blue denim jacket with modern slim fit.",
+    "price": 2499,
+    "category": "men clothing",
+    "image": "https://picsum.photos/seed/jacket/400/300"
+  },
+  {
+    "title": "Men's Casual T-Shirt",
+    "description": "Soft cotton round neck T-shirt available in multiple colors.",
+    "price": 799,
+    "category": "men clothing",
+    "image": "https://picsum.photos/seed/tshirt/400/300"
+  },
+  {
+    "title": "Women's Handbag",
+    "description": "Stylish handbag with multiple compartments.",
+    "price": 1499,
+    "category": "women clothing",
+    "image": "https://picsum.photos/seed/handbag/400/300"
+  },
+  {
+    "title": "Women's Dress",
+    "description": "Elegant evening dress made from premium fabric.",
+    "price": 3499,
+    "category": "women clothing",
+    "image": "https://picsum.photos/seed/dress/400/300"
+  },
+  {
+    "title": "Women's Sneakers",
+    "description": "Trendy sneakers with comfortable sole and breathable fabric.",
+    "price": 1799,
+    "category": "women clothing",
+    "image": "https://picsum.photos/seed/sneakers/400/300"
+  },
+  {
+    "title": "Cricket Bat",
+    "description": "Professional grade wooden cricket bat.",
+    "price": 2499,
+    "category": "sports",
+    "image": "https://picsum.photos/seed/cricket/400/300"
+  },
+  {
+    "title": "Football",
+    "description": "Durable football suitable for training and matches.",
+    "price": 999,
+    "category": "sports",
+    "image": "https://picsum.photos/seed/football/400/300"
+  },
+  {
+    "title": "Badminton Racket Set",
+    "description": "Set of 2 rackets with 3 shuttlecocks for beginners.",
+    "price": 1299,
+    "category": "sports",
+    "image": "https://picsum.photos/seed/badminton/400/300"
+  },
+  {
+    "title": "Yoga Mat",
+    "description": "Non-slip yoga mat for workouts and meditation.",
+    "price": 799,
+    "category": "sports",
+    "image": "https://picsum.photos/seed/yogamat/400/300"
+  },
+  {
+    "title": "Diamond Ring",
+    "description": "Elegant ring with 18K gold and diamond stone.",
+    "price": 49999,
+    "category": "jewelery",
+    "image": "https://picsum.photos/seed/ring/400/300"
+  },
+  {
+    "title": "Gold Necklace",
+    "description": "24K gold plated necklace for women.",
+    "price": 25999,
+    "category": "jewelery",
+    "image": "https://picsum.photos/seed/necklace/400/300"
+  },
+  {
+    "title": "Silver Bracelet",
+    "description": "Handcrafted silver bracelet with unique design.",
+    "price": 4999,
+    "category": "jewelery",
+    "image": "https://picsum.photos/seed/bracelet/400/300"
+  },
+  {
+    "title": "Pearl Earrings",
+    "description": "Beautiful pearl earrings with gold plating.",
+    "price": 2999,
+    "category": "jewelery",
+    "image": "https://picsum.photos/seed/earrings/400/300"
+  },
+  {
+    "title": "Office Chair",
+    "description": "Ergonomic office chair with adjustable height.",
+    "price": 4999,
+    "category": "home",
+    "image": "https://picsum.photos/seed/chair/400/300"
+  },
+  {
+    "title": "Coffee Maker",
+    "description": "Automatic coffee maker with timer function.",
+    "price": 3499,
+    "category": "home",
+    "image": "https://picsum.photos/seed/coffeemaker/400/300"
+  },
+  {
+    "title": "Microwave Oven",
+    "description": "20L microwave oven with auto cook menus.",
+    "price": 6999,
+    "category": "home",
+    "image": "https://picsum.photos/seed/microwave/400/300"
+  },
+  {
+    "title": "Vacuum Cleaner",
+    "description": "Powerful vacuum cleaner with bagless technology.",
+    "price": 5499,
+    "category": "home",
+    "image": "https://picsum.photos/seed/vacuum/400/300"
+  },
+  {
+    "title": "Wooden Dining Table",
+    "description": "4-seater wooden dining table with polished finish.",
+    "price": 15999,
+    "category": "home",
+    "image": "https://picsum.photos/seed/table/400/300"
+  },
+  {
+    "title": "Men's Leather Wallet",
+    "description": "Premium leather wallet with multiple compartments.",
+    "price": 1299,
+    "category": "men clothing",
+    "image": "https://picsum.photos/seed/wallet/400/300"
+  },
+  {
+    "title": "Men's Formal Shoes",
+    "description": "Elegant leather formal shoes for office and parties.",
+    "price": 2999,
+    "category": "men clothing",
+    "image": "https://picsum.photos/seed/formalshoes/400/300"
+  },
+  {
+    "title": "Women's Sandals",
+    "description": "Comfortable and stylish sandals for daily wear.",
+    "price": 1199,
+    "category": "women clothing",
+    "image": "https://picsum.photos/seed/sandals/400/300"
+  },
+  {
+    "title": "Fitness Smartwatch",
+    "description": "Tracks heart rate, steps, and sleep with AMOLED display.",
+    "price": 4999,
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/smartwatch/400/300"
+  },
+  {
+    "title": "Bluetooth Speaker",
+    "description": "Portable speaker with deep bass and long battery life.",
+    "price": 1999,
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/speaker/400/300"
+  },
+  {
+    "title": "Table Lamp",
+    "description": "Modern LED table lamp with adjustable brightness.",
+    "price": 899,
+    "category": "home",
+    "image": "https://picsum.photos/seed/lamp/400/300"
+  },
+  {
+    "title": "Travel Backpack",
+    "description": "Waterproof backpack with laptop compartment.",
+    "price": 1799,
+    "category": "sports",
+    "image": "https://picsum.photos/seed/backpack/400/300"
+  }
+]
